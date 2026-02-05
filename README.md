@@ -6,13 +6,6 @@ Play / Download: [Pong](https://1ai-13.itch.io/pong-game)
 
 ---
 
-## Tech Stack
-
-- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-- ![LibGDX](https://img.shields.io/badge/LibGDX-2A9D8F?logo=libgdx&logoColor=white)
-
----
-
 ## Game Modes
 
 - Player 1 vs "AI"  
@@ -26,6 +19,13 @@ Play / Download: [Pong](https://1ai-13.itch.io/pong-game)
 |--------|------|
 | Player 1 | `W` / `S` |
 | Player 2 | `↑` / `↓` |
+
+---
+
+## Tech Stack
+
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+- ![LibGDX](https://img.shields.io/badge/LibGDX-2A9D8F?logo=libgdx&logoColor=white)
 
 ---
 
